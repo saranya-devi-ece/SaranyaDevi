@@ -17,4 +17,4 @@
 🎯 Career Goal To become an Embedded Systems Engineer.
 
 🔗 Connect with me on LinkedIn:
-[Saranya Devi K](www.linkedin.com/in/saranya-devi-k-0536bb306)
+[Saranya Devi K](https://www.linkedin.com/in/saranya-devi-k-0536bb306/)
