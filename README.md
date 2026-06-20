@@ -4,9 +4,7 @@
 
 💡 Passionate about Embedded Systems and IoT
 
-💻 Skills:
-- C Programming - Embedded C - Digital Electronics - Arduino - ESP32 - IoT- UART - I2C - SPT - CAN Protocols - Proteus - Code Composer Studio -
-- Wokwi
+💻 Skills:- C Programming - Embedded C - Digital Electronics - Arduino - ESP32 - IoT- UART - I2C - SPT - CAN Protocols - Proteus - Code Composer Studio - Wokwi
 
 🚀 Projects:
 - 🚦Four-Way Traffic Signal Control System using Arduino UNO.
