@@ -9,8 +9,7 @@
 🚀 Projects:
 - 🚦Four-Way Traffic Signal Control System using Arduino UNO.
 - 🚨 SOS Morse Code Emergency Alert System using Arduino.
-- 🌡️ Automatic Temperature-Controlled Fan with LED Status Indicator using Arduino.
-- 🔐 Smart Door Lock System using Arduino
+- 📋Smart RFID-Based Attendance Management System using Arduino.
 
 🎯 Career Goal :
 To become an Embedded Systems Engineer.
